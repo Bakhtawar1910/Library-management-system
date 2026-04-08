@@ -1,0 +1,16 @@
+# Local configuration
+/db_connect.php
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PHP dependencies (if added later)
+/vendor/
+
+# Environment files
+.env
+.env.*
