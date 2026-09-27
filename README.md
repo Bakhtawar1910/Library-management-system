@@ -63,4 +63,11 @@ A clean, modern library cataloging system built with **PHP**, **MySQL**, and **B
 - All UI styles are centralized in `style.css` for easy customization.
 
 ---
-**Author:** Bakhtawar1910
+## Developer Profile & Contact
+- Feel free to connect with me, ask questions, or check out my other projects! Developed By Bakhtawar Khan
+
+- GitHub: @Bakhtawar1910
+- LinkedIn Profile: LinkedIn Profile
+- Portfolio Website: Portfolio Website
+- Instagram Profile: Instagram Profile
+
